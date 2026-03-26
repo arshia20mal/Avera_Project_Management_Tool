@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 50" fill="none">
+  <!-- Avera logomark: stylized leaf with thick stalk, symmetrical leaves, dot at top -->
+  <g transform="translate(12, 3)" fill="#E9DEDA">
+    <!-- Central stalk (thick) -->
+    <rect x="10.5" y="16" width="3" height="24" rx="1.5"/>
+    <!-- Left leaf pair -->
+    <path d="M12 28 C6 24, 1.5 19, 2 13 C2.5 9, 5.5 8, 8 11 C10 13.5, 12 20, 12 28Z"/>
+    <path d="M12 20 C8 17, 4.5 13, 5 8.5 C5.3 6, 7.5 5.5, 9 7.5 C10 9, 12 14, 12 20Z"/>
+    <!-- Right leaf pair -->
+    <path d="M12 28 C18 24, 22.5 19, 22 13 C21.5 9, 18.5 8, 16 11 C14 13.5, 12 20, 12 28Z"/>
+    <path d="M12 20 C16 17, 19.5 13, 19 8.5 C18.7 6, 16.5 5.5, 15 7.5 C14 9, 12 14, 12 20Z"/>
+    <!-- Dot at top (mindfulness element) -->
+    <circle cx="12" cy="3" r="2.2"/>
+  </g>
+  <!-- "avera" text — lowercase, slim serif, generous spacing -->
+  <text x="46" y="34" font-family="'Playfair Display', Georgia, serif" font-size="26" font-weight="400" letter-spacing="5" fill="#E9DEDA">avera</text>
+</svg>
